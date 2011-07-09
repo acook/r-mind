@@ -7,4 +7,5 @@ A little todo/reminder app that runs on the commandline and stores its reminders
 Install
 -------
 
-```ln -s \`pwd\`/r ~/bin/r```
+```ln -s `pwd`/r ~/bin/r```
+
